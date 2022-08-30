@@ -8,7 +8,7 @@ URI: https://cleancoded.com
 
 ## Introduction
 
-This gem is used for importing Shopify Change Links with Jquery.
+This gem is used for importing Shopify Change Links with jQuery.
 
 ## Requirements
 
