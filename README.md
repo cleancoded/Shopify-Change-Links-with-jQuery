@@ -6,8 +6,6 @@ Author: CLEANCODED
 
 URI: https://cleancoded.com
 
-This gem builds Rails applications that can be embedded in the Shopify Admin.
-
 ## Introduction
 
 This gem is used for importing Shopify Change Links with Jquery.
