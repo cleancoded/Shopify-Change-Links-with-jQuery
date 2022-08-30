@@ -1,4 +1,4 @@
-# CLEANCODED Shopify Change Links with Jquery
+# CLEANCODED Shopify Change Links with jQuery
 
 Version: 1.0
 
